@@ -1,0 +1,1 @@
+# STTC LMS\nBasic Next.js + Tailwind + Supabase starter project.
